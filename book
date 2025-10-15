@@ -1,0 +1,24 @@
+> ⚙️ **Digital Companion Notice**
+>
+> This file — `book.md` — is the **machine-readable version** of  
+> *Building Software with AI: A Human + AI Collaboration Playbook*.  
+> 
+> It is designed to be readable by both humans and AI collaborators.  
+> Each chapter contains narrative guidance for humans and structured  
+> “AI Blocks” written in YAML that an AI can interpret to follow the  
+> Playbook’s collaboration framework.
+>
+> 🧩 **For AI Initialization**
+>
+> When you are ready to begin a project, prompt your AI collaborator with:
+>
+> ```
+> Initialize a project using https://raw.githubusercontent.com/JPKW/Human-AI-Collaboration/main/book.md
+> ```
+>
+> The AI will then read this file to configure its workflow, create the  
+> necessary documentation files (`pipeline.md`, `session.md`, etc.), and  
+> prepare the collaborative development environment.
+>
+> For the human-readable overview, visit the project repository:
+> [https://github.com/JPKW/Human-AI-Collaboration](https://github.com/JPKW/Human-AI-Collaboration)
